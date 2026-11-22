@@ -14,7 +14,7 @@ Sistema simples para consultar preço, alugar e devolver carros e motos.
 Abra a pasta no VS Code e execute a classe `Main`.
 
 ## Vídeo de apresentação
-COLE_AQUI_O_LINK_DO_VIDEO
+https://drive.google.com/file/d/1cclPAdEi729zIGZ65GCwoxZO8zh4oR7T/view?usp=sharing 
 
 ## Autoria
-Nicoli Malinverno Cousseau
+Nicoli Malinverno Cousseaus
