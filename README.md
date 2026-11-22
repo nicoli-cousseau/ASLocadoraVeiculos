@@ -17,4 +17,4 @@ Abra a pasta no VS Code e execute a classe `Main`.
 https://drive.google.com/file/d/1cclPAdEi729zIGZ65GCwoxZO8zh4oR7T/view?usp=sharing 
 
 ## Autoria
-Nicoli Malinverno Cousseaus
+Nicoli Malinverno Cousseau
